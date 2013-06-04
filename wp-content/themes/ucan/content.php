@@ -43,7 +43,7 @@
     </div><!-- .entry-content -->
 
     <?php if (is_single()): ?>
-        <!--<div class="addthis_toolbox addthis_default_style"><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a></div>-->
+        <div class="addthis_toolbox addthis_default_style"><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a></div>
     <?php endif; ?>
     
     <footer class="entry-meta">

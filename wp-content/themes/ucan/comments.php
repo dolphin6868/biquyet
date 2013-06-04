@@ -25,7 +25,7 @@ if (post_password_required())
     <a data-id="fb" href="#">Bình luận trên facebook</a>
 </div>
 <div id="fb-comment-tab">
-   <?php  //echo do_shortcode('[fbcomments]'); ?>
+   <?php  echo do_shortcode('[fbcomments]'); ?>
 </div>
 <div id="comments" class="comments-area">
     <?php if (have_comments()) : ?>
