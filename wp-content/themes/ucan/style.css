@@ -317,8 +317,9 @@ article .comment-meta {
 }
 
 #search-input {
-    width: 192px;
+    width: 180px;
     margin-top: 0;
+    padding-left: 10px;
 }
 
 .widget_search .widget-title {
