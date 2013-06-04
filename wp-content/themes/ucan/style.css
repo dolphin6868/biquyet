@@ -1,0 +1,340 @@
+/*
+Theme Name: Ucan Blue Ocean
+Theme URI: http://ucan.vn/
+Description: Áp dụng theme blue ocean của Ucan
+Author: Nguyễn Đình Đoàn
+Version: 1.0
+*/
+
+@import url("//www.ucan.vn/shark/public/css/site.css");
+@import url("//www.ucan.vn/shark/public/css/layouts/front.css");
+@import url("//www.ucan.vn/shark/public/css/resource/frontend/front-menu.css");
+@import url("//www.ucan.vn/shark/public/css/resource/frontend/front-bluebar.css");
+@import url("//www.ucan.vn/shark/public/css/resource/frontend/front-footer.css");
+@import url("//www.ucan.vn/shark/public/css/news/blog/controller_common.css");
+
+#sidebar > ul {
+    padding: 0;
+}
+
+#hot-posts .item {
+    margin-top: 10px;
+}
+
+#hot-posts a,
+#sidebar a,
+#blog-content a {
+    text-decoration: none;
+    color: #0070C0;
+}
+
+#hot-posts a:hover,
+#sidebar a:hover,
+#blog-content a:hover {
+    text-decoration: underline;
+    color: #F36D00;
+}
+
+.archive-title {
+    color: #F36D00;
+}
+
+.entry-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #B00000;
+}
+
+.entry-title a {
+    color: inherit !important;
+}
+
+#category-list li,
+#blog-content li {
+    list-style: none;
+}
+
+#hot-posts-title {
+    margin-top: 40px;
+}
+
+#hot-posts-title,
+.widget-title {
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 20px;
+    margin-bottom: 14px;
+}
+
+#hot-posts {
+    padding-left: 0;
+}
+
+.widget-title + ul {
+    padding-left: 0;
+}
+
+.widget-title + ul li {
+    line-height: 24px;
+}
+
+#recent-posts-3 > .widget-title {
+    margin-top: 0;
+}
+
+ul.children {
+    padding-left: 20px;
+}
+
+article:first-child {
+    padding-top: 0;
+    border-top: none;
+}
+
+article {
+    margin-bottom: 2px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #e8e8e8;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.entry-meta {
+    color: black;
+    background: url(//www.ucan.vn/shark/public/img/icons/tag_red.png) no-repeat 10px 16px white;
+    box-shadow: inset 0px -5px 20px 0px #F2F2F2;
+    color: black;
+    border: 1px solid #D0D0D0;
+    border-radius: 3px;
+    padding-left: 54px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 0;
+    display: block;
+    clear: both;
+    margin-bottom: 0px;
+    line-height: 24px;
+}
+
+.attachment-post-thumbnail {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.leave-reply {
+    background: url(//fbstatic-a.akamaihd.net/rsrc.php/v2/yg/r/Qdv04UHuWZa.png) no-repeat 0px -15px;
+    padding-left: 20px;
+}
+
+.entry-meta a {
+    text-decoration: underline;
+}
+
+.entry-content {
+    padding: 5px 0;
+    line-height: 24px;
+    text-align: justify;
+}
+
+.nav-single,
+#nav-below {
+    padding: 20px 0 40px 0;
+}
+
+.nav-previous {
+    float: left;
+}
+
+.nav-next {
+    float: right;
+}
+
+.required {
+    color: red;
+}
+
+#search-input,
+#commentform input[type="text"],
+#commentform textarea {
+    box-shadow: inset 0 32px 60px -42px #D9D9D9;
+    border: 1px solid #D8D8D8;
+    height: 24px;
+    width: 340px;
+    outline: none;
+    margin-top: 4px;
+    color: #888;
+    font-family: inherit;
+}
+
+#submit {
+    font-size: 14px;
+    float: right;
+}
+
+#comment {
+    width: 100% !important;
+    resize: vertical;
+    min-height: 100px;
+}
+
+#commentform label {
+    display: block;
+}
+
+#reply-title {
+    color: #B00000;
+}
+
+.commentlist + #respond {
+    margin-top: 60px;
+}
+
+.comment + #respond {
+    margin-top: 20px !important;
+}
+
+#respond + .children {
+    clear: both;
+    padding-top: 20px;
+}
+
+#reply-title,
+.comments-title {
+    color: #B00000;
+    margin: 0;
+    font-size: 20px;
+}
+
+.commentlist .fn a {
+    vertical-align: top;
+}
+
+.comments-link {
+    padding-left: 20px;
+    background: url(//png.findicons.com/files/icons/1689/splashy/16/comments_small.png) no-repeat 0px 1px;
+}
+
+.creation-info {
+    color: #888;
+}
+
+.creation-info .on {
+    padding-right: 6px;
+}
+
+#comments .author {
+    font-weight: bold;
+    color: #666;
+}
+
+#comments {
+    margin-top: 30px;
+}
+
+#comments .avatar {
+    margin-right: 10px;
+}
+
+#comments .time {
+    margin-left: 10px;
+}
+
+article .comment-meta {
+    margin-top: 20px;
+}
+
+.fb-like-box {
+    margin: 10px 0 0 -13px !important;
+}
+
+.addthis_toolbox .fb-like {
+    margin-top: 0 !important;
+}
+
+.addthis_button_tweet {
+    margin-left: 6px;
+}
+
+.addthis_button_google_plusone {
+    margin-left: -24px;
+}
+
+.entry-content img {
+    max-width: 630px !important;
+}
+
+.comment-meta > * {
+    float: left;
+}
+
+.comment .reply {
+    clear: both;
+}
+
+.comment-content {
+    text-align: justify;
+    line-height: 24px;
+}
+
+#cancel-comment-reply-link {
+    float: right;
+}
+
+.commentlist {
+    padding-left: 0;
+}
+
+#comment-tabs {
+    border-bottom: 1px solid #e8e8e8;
+    height: 28px;
+    margin-top: 20px;
+}
+
+#comment-tabs a {
+    background: white;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px 12px;
+    color: black;
+    text-decoration: none;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+
+#comment-tabs .active {
+    border-top: 1px solid #e8e8e8;
+    border-left: 1px solid #e8e8e8;
+    border-right: 1px solid #e8e8e8;
+    border-radius: 4px 4px 0 0;
+    color: #F36D00 !important;
+    background: white;
+}
+
+.fb-comments + p {
+    display: none;
+}
+
+#search-input {
+    width: 192px;
+    margin-top: 0;
+}
+
+.widget_search .widget-title {
+    display: none;
+}
+
+.front-grey-button {
+    border-radius: 4px;
+    width: 70px;
+    height: 28px;
+    font-size: 12px;
+    padding: 0;
+    vertical-align: top;
+}
+
+.fb-like-box iframe {
+    margin-left: 10px;
+}
