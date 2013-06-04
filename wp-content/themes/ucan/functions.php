@@ -442,7 +442,7 @@ if (!function_exists('twentytwelve_comment')) :
     add_action('customize_preview_init', 'twentytwelve_customize_preview_js');
 
     function new_excerpt_more($more) {
-        return ' <a class="read-more" href="' . get_permalink(get_the_ID()) . '">Xem chi tiết</a>';
+        return ' <a class="read-more" href="' . get_permalink(get_the_ID()) . '">. . . xem chi tiết</a>';
     }
 
     add_filter('excerpt_more', 'new_excerpt_more');

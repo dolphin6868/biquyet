@@ -60,6 +60,7 @@ Version: 1.0
     margin-top: 40px;
 }
 
+#english-is-zero,
 #hot-posts-title,
 .widget-title {
     font-size: 20px;
@@ -294,14 +295,11 @@ article .comment-meta {
 }
 
 #comment-tabs a {
-    background: white;
     font-weight: bold;
     font-size: 14px;
     padding: 10px 12px;
     color: black;
     text-decoration: none;
-    border-left: 1px solid white;
-    border-right: 1px solid white;
 }
 
 #comment-tabs .active {
