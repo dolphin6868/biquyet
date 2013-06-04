@@ -16,19 +16,19 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('WP_SITEURL', 'http://doan-pc/biquyet');
-define('WP_HOME','http://doan-pc/biquyet');
+define('WP_SITEURL', 'http://117.6.129.197/biquyet');
+define('WP_HOME','http://117.6.129.197/biquyet');
 
-define('DB_NAME', 'ucan_sharing');
+define('DB_NAME', 'biquyet');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'dolphin');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'iamwinner');
+define('DB_PASSWORD', '18052011');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '117.6.129.197');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
