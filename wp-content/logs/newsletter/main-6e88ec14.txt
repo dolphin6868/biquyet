@@ -1,0 +1,39 @@
+04-06-2013 15:12:47 - ERROR - 29909560 - mail> Could not instantiate mail function.
+05-06-2013 03:49:04 - ERROR - 30094496 - mail> Could not instantiate mail function.
+10-06-2013 03:47:12 - ERROR - 29902032 - mail> Could not instantiate mail function.
+19-06-2013 01:10:25 - ERROR - 29907968 - mail> Could not instantiate mail function.
+19-06-2013 02:17:08 - ERROR - 29909320 - mail> Could not instantiate mail function.
+24-06-2013 03:34:57 - ERROR - 28966336 - Blocked by transient newsletter_main_engine set 0 seconds ago
+26-06-2013 08:15:55 - ERROR - 29913768 - mail> Could not instantiate mail function.
+01-07-2013 14:51:24 - ERROR - 28974248 - Blocked by transient newsletter_main_engine set 1 seconds ago
+11-07-2013 04:30:47 - ERROR - 29923056 - mail> Could not instantiate mail function.
+16-07-2013 15:13:35 - ERROR - 29922528 - mail> Could not instantiate mail function.
+29-07-2013 12:34:35 - ERROR - 28982384 - Blocked by transient newsletter_main_engine set 1 seconds ago
+13-08-2013 09:44:09 - ERROR - 28997952 - Blocked by transient newsletter_main_engine set 0 seconds ago
+17-08-2013 04:47:21 - ERROR - 29944304 - mail> Could not instantiate mail function.
+28-08-2013 12:21:55 - ERROR - 29946328 - mail> Could not instantiate mail function.
+04-09-2013 10:03:07 - ERROR - 29948152 - mail> Could not instantiate mail function.
+09-09-2013 10:25:14 - ERROR - 29948880 - mail> Could not instantiate mail function.
+14-09-2013 14:49:42 - ERROR - 29007976 - Blocked by transient newsletter_main_engine set 0 seconds ago
+15-09-2013 04:24:47 - ERROR - 29950016 - mail> Could not instantiate mail function.
+16-09-2013 05:21:53 - ERROR - 29957104 - mail> Could not instantiate mail function.
+17-09-2013 10:51:10 - ERROR - 29008600 - Blocked by transient newsletter_main_engine set 0 seconds ago
+18-09-2013 15:31:59 - ERROR - 29952760 - mail> Could not instantiate mail function.
+19-09-2013 15:44:16 - ERROR - 29008944 - Blocked by transient newsletter_main_engine set 0 seconds ago
+20-09-2013 08:50:38 - ERROR - 29008600 - Blocked by transient newsletter_main_engine set 0 seconds ago
+23-09-2013 15:01:39 - ERROR - 29953296 - mail> Could not instantiate mail function.
+29-09-2013 07:19:53 - ERROR - 29955808 - mail> Could not instantiate mail function.
+30-09-2013 11:45:29 - ERROR - 29960976 - mail> Could not instantiate mail function.
+30-09-2013 18:37:34 - ERROR - 29954344 - mail> Could not instantiate mail function.
+02-10-2013 03:37:36 - ERROR - 29959304 - mail> Could not instantiate mail function.
+02-10-2013 03:37:37 - ERROR - 29959304 - mail> Could not instantiate mail function.
+05-10-2013 16:26:21 - ERROR - 29954232 - mail> Could not instantiate mail function.
+07-10-2013 13:37:33 - ERROR - 29954064 - mail> Could not instantiate mail function.
+07-10-2013 16:19:41 - ERROR - 29961088 - mail> Could not instantiate mail function.
+09-10-2013 03:54:38 - ERROR - 29010776 - Blocked by transient newsletter_main_engine set 0 seconds ago
+11-10-2013 16:47:22 - ERROR - 29013576 - Blocked by transient newsletter_main_engine set 0 seconds ago
+14-10-2013 01:26:45 - ERROR - 29957168 - mail> Could not instantiate mail function.
+14-10-2013 08:42:20 - ERROR - 29956496 - mail> Could not instantiate mail function.
+16-10-2013 03:44:38 - ERROR - 29957616 - mail> Could not instantiate mail function.
+16-10-2013 08:46:29 - ERROR - 29960568 - mail> Could not instantiate mail function.
+17-10-2013 14:55:14 - ERROR - 29957464 - mail> Could not instantiate mail function.

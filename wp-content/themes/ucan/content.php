@@ -25,7 +25,7 @@
 
         <?php if (comments_open()) : ?>
             <div class="creation-info">
-                <span class="on">Đăng vào lúc <?php the_modified_time('G:i'); ?> ngày <?php the_modified_date('j/n/Y'); ?></span> | &nbsp;<a class="comments-link" href="#comments"><?php echo get_comments_number(get_the_ID()); ?> bình luận</a>
+                <span class="on">Đăng vào lúc <?php the_modified_time('G:i'); ?> ngày <?php the_modified_date('j/n/Y'); ?></span> | &nbsp;<a class="comments-link" href="<?php the_permalink(); ?>#comments"><?php echo get_comments_number(get_the_ID()); ?> bình luận</a>
             </div>
         <?php endif; // comments_open() ?>
         <?php the_post_thumbnail(); ?>
@@ -43,7 +43,7 @@
     </div><!-- .entry-content -->
 
     <?php if (is_single()): ?>
-        <div class="addthis_toolbox addthis_default_style"><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a></div>
+        <!--<div class="addthis_toolbox addthis_default_style"><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a></div>-->
     <?php endif; ?>
     
     <footer class="entry-meta">

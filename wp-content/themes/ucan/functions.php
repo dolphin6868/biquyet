@@ -288,15 +288,15 @@ if (!function_exists('twentytwelve_comment')) :
                             <?php
                             echo get_avatar($comment, 44);
                             ?>
-                            <span class="author"><?php echo get_the_author(); ?></span>
+                            <span class="author"><?php echo get_comment_author(); ?></span>
                             <?php
-                            printf('<a href="%1$s" class="time"><time datetime="%2$s">%3$s</time></a>', esc_url(get_comment_link($comment->comment_ID)), get_comment_time('c'),
+                            printf('<span href="%1$s" class="time"><time datetime="%2$s">%3$s</time></span>', esc_url(get_comment_link($comment->comment_ID)), get_comment_time('c'),
                                     /* translators: 1: date, 2: time */ sprintf(__('vào lúc %2$s ngày %1$s', 'twentytwelve'), get_comment_date(), get_comment_time())
                             );
                             ?>
                             <br/>
                             <?php if ('0' == $comment->comment_approved) : ?>
-                                <p class="comment-awaiting-moderation"><?php _e('Your comment is awaiting moderation.', 'twentytwelve'); ?></p>
+                                <p class="comment-awaiting-moderation"><?php _e('Bình luận của bạn đang được kiểm duyệt.', 'twentytwelve'); ?></p>
                             <?php endif; ?>
 
                             <section class="comment-content comment">
@@ -340,7 +340,7 @@ if (!function_exists('twentytwelve_comment')) :
 
             // Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's name.
             if ($tag_list) {
-                $utility_text = __('Chuyên mục: %1$s<br/>Tag %2$s', 'twentytwelve');
+                $utility_text = __('Chuyên mục: &nbsp; %1$s<br/>Tag: &nbsp; %2$s', 'twentytwelve');
             } elseif ($categories_list) {
                 $utility_text = __('Chuyên mục: %1$s', 'twentytwelve');
             } else {
@@ -442,7 +442,7 @@ if (!function_exists('twentytwelve_comment')) :
     add_action('customize_preview_init', 'twentytwelve_customize_preview_js');
 
     function new_excerpt_more($more) {
-        return ' <a class="read-more" href="' . get_permalink(get_the_ID()) . '">. . . xem chi tiết</a>';
+        return ' <a class="read-more" href="' . get_permalink(get_the_ID()) . '">Xem chi tiết</a>';
     }
 
     add_filter('excerpt_more', 'new_excerpt_more');

@@ -79,18 +79,22 @@
         <div id="front-menu">
             <div id="front-menu-placeholder">
                 <ul id="front-menu-list">
-                    <li class="front-menu-item"><a href="/index">Trang chủ</a></li>
+                    <li class="front-menu-item home-menu-item"><a href="/index"><img src="/shark/public/img/global/home.png" width="16" /></a></li>
                     <li class="front-menu-item"><a href="/khoa-hoc">Khóa học</a></li>
                     <li class="front-menu-item"><a href="/bai-hoc">Bài học</a></li>
                     <li class="front-menu-item"><a href="/thu-vien">Thư viện</a></li>
                     <li class="front-menu-item"><a href="/bi-quyet">Bí quyết</a></li>
-                    <li class="front-menu-item">
-                        <a href="/xep-hang-theo-uc">Xếp hạng</a>
-                        <ul class="menu-subitem-list">
-                            <li class="menu-submitem"><a href="/xep-hang-theo-uc">Xếp hạng theo Uc</a></li>
-                            <li class="menu-submitem"><a href="/xep-hang-theo-huy-chuong">Xếp hạng huy chương</a></li>
-                        </ul>
-                    </li>
+                    <li class="front-menu-item has-sub-menu">
+                                                                        <a href="/xep-hang-theo-uc">Xếp hạng</a>
+                                                                            <div class="submenu-bg">
+                                <ul class="submenu1">
+                                                                                                                                                                        <li class="separate">
+                                                    <a href="/xep-hang-theo-uc">Xếp hạng theo Uc</a>
+                                                                                                                                                                                                                                                                </li><li class="separate">
+                                                    <a href="/xep-hang-theo-huy-chuong">Xếp hạng huy chương</a>
+                                                                                                                                                            </li></ul>
+                            </div>
+                                                            </li>
                 </ul>
                 <ul id="front-menu-login-register">
                     <li id="front-menu-login"><a href="/dang-nhap">Đăng nhập</a></li>
