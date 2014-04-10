@@ -57,6 +57,30 @@ No screen shots are available at this time.
 
 == Changelog ==
 
+= 3.5.3 =
+
+* Added support for extensions as plugins
+
+= 3.5.2 =
+
+* Fixed the {title} tag replacement for old subscriber list with the gender not set
+* Added the upgrade from old versions button on diagnostic panel
+
+= 3.5.1 =
+
+* Support for the SendGrid extension
+
+= 3.5.0 =
+
+* Fixed the subscriber list panel
+* Interface reviewed
+* Fixed the image chooser for WP 3.8.1
+* Fixed the export for editors
+* Patch for anonymous users create by woocommerce
+* Madrill API adapter
+* Header separation between this plugin and the extensions
+* Default to base 64 encoding of outgoing email to solve the long lines problem
+
 = 3.4.9 =
 
 * Fixed some warnings in debug mode
