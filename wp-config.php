@@ -19,13 +19,13 @@
 define('DB_NAME', 'biquyet');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'admin');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'iamwinner');
+define('DB_PASSWORD', 'DcnmCbJNHCUuchLg');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'ucanmydb.cjppdbmw8vde.ap-southeast-1.rds.amazonaws.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -33,8 +33,8 @@ define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
-define('WP_HOME','http://localhost/bi-quyet');
-define('WP_SITEURL','http://localhost/bi-quyet');
+define('WP_HOME','http://www.ucan.vn/bi-quyet');
+define('WP_SITEURL','http://www.ucan.vn/bi-quyet');
 
 /**#@+
  * Authentication Unique Keys and Salts.
