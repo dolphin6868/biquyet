@@ -33,11 +33,13 @@
 
     <div class="entry-content">
         <?php
-            if (is_single()) {
-                the_content(__('Continue reading <span class="meta-nav">&rarr;</span>', 'twentytwelve'));
-            } else {
-                the_excerpt();
-            }
+        if (is_page()) {
+            the_content();
+        } elseif (is_single()) {
+            the_content(__('Continue reading <span class="meta-nav">&rarr;</span>', 'twentytwelve'));
+        } else {
+            the_excerpt();
+        }
         ?>
         <?php wp_link_pages(array('before' => '<div class="page-links">' . __('Pages:', 'twentytwelve'), 'after' => '</div>')); ?>
     </div><!-- .entry-content -->
@@ -45,7 +47,7 @@
     <?php if (is_single()): ?>
         <!--<div class="addthis_toolbox addthis_default_style"><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a></div>-->
     <?php endif; ?>
-    
+
     <footer class="entry-meta">
         <?php twentytwelve_entry_meta(); ?>
         <?php edit_post_link(__('Edit', 'twentytwelve'), '<span class="edit-link">', '</span>'); ?>
