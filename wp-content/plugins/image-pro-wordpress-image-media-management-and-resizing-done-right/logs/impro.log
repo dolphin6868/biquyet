@@ -1,0 +1,31 @@
+2014-04-16 5:36:18 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BLOG-70-BI-KIP-footer.gif" does not exist 
+2014-04-16 5:36:18 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/cropped-BO-BA-NHAM-CHAN.png" does not exist 
+2014-04-16 5:36:19 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BO-BA-NHAM-CHAN1.png" does not exist 
+2014-04-16 5:36:19 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BLOG-1.gif" does not exist 
+2014-04-16 5:36:19 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/vhjknlm.gif" does not exist 
+2014-04-16 5:36:20 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BO-BA-NHAM-CHAN.png" does not exist 
+2014-04-16 5:36:23 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/cropped-header_8.gif" does not exist 
+2014-04-16 5:36:23 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/end_1.gif" does not exist 
+2014-04-16 5:36:24 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/header_1.gif" does not exist 
+2014-04-16 5:37:28 - INFO  --> When saving post id = 347, 1 thumbnails will require processing 
+2014-04-16 5:37:28 - WARN  --> Could not hint file system path for src = /bi-quyet/wp-content/uploads/2014/03/cropped-BO-BA-NHAM-CHAN.png => . Trying up one level. 
+2014-04-16 5:37:28 - WARN  --> Could not hint file system path for src = /bi-quyet/wp-content/uploads/2014/03/cropped-BO-BA-NHAM-CHAN.png => . Trying up one level. 
+2014-04-16 5:37:28 - ERROR --> Could not get the file system path for src = /bi-quyet/wp-content/uploads/2014/03/cropped-BO-BA-NHAM-CHAN.png =>  
+2014-04-16 5:41:13 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BO-BA-NHAM-CHAN.png" does not exist 
+2014-04-16 5:41:14 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BLOG-70-BI-KIP-footer.gif" does not exist 
+2014-04-16 5:41:14 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BO-BA-NHAM-CHAN1.png" does not exist 
+2014-04-16 5:41:14 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/vhjknlm.gif" does not exist 
+2014-04-16 5:41:14 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BLOG-1.gif" does not exist 
+2014-04-16 5:41:15 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/cropped-BO-BA-NHAM-CHAN.png" does not exist 
+2014-04-16 5:41:17 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/cropped-header_8.gif" does not exist 
+2014-04-16 5:41:19 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/end_1.gif" does not exist 
+2014-04-16 5:41:19 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/header_1.gif" does not exist 
+2014-04-16 5:43:21 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/vhjknlm.gif" does not exist 
+2014-04-16 5:43:21 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BLOG-70-BI-KIP-footer.gif" does not exist 
+2014-04-16 5:43:22 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BLOG-1.gif" does not exist 
+2014-04-16 5:43:22 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BO-BA-NHAM-CHAN.png" does not exist 
+2014-04-16 5:43:22 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/cropped-BO-BA-NHAM-CHAN.png" does not exist 
+2014-04-16 5:43:22 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BO-BA-NHAM-CHAN1.png" does not exist 
+2014-04-16 5:43:26 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/end_1.gif" does not exist 
+2014-04-16 5:43:26 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/cropped-header_8.gif" does not exist 
+2014-04-16 5:43:27 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/header_1.gif" does not exist 
