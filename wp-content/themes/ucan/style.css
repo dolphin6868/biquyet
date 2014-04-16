@@ -136,6 +136,7 @@ article {
     clear: both;
     margin-bottom: 0px;
     line-height: 24px;
+	min-height: 40px;
 }
 
 .attachment-post-thumbnail {
