@@ -238,6 +238,9 @@
                         <a href="/shark/public/thu-vien">
                             Thư viện                            </a>
                     </li>
+					<li class="front-menu-item">
+						<a href="http://ucan.vn/bi-quyet">Bí quyết</a>
+					</li>
                     <li class="front-menu-item has-sub-menu">
                         <a href="/shark/public/xep-hang-theo-uc">
                             Xếp hạng                            </a>
