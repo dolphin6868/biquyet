@@ -61,8 +61,4 @@
         ?>
         <?php wp_link_pages(array('before' => '<div class="page-links">' . __('Pages:', 'twentytwelve'), 'after' => '</div>')); ?>
     </div><!-- .entry-content -->
-
-    <?php if (is_single()): ?>
-        <!--<div class="addthis_toolbox addthis_default_style"><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a></div>-->
-    <?php endif; ?>
 </article><!-- #post -->
