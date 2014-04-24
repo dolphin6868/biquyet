@@ -1,16 +1,16 @@
 /* Editor
 -------------------------------------------------------------- */
-.wp_themeSkin span.mce_advanced_wp_columns
+.wp_themeSkin span.mce_advanced_wp_columns, .mce-i-advanced_wp_columns
 {
     background: url(../img/dryicons.png) no-repeat !important;
 }
 
-.wp_themeSkin  span.mce_advanced_wp_columns {
+.wp_themeSkin  span.mce_advanced_wp_columns, .mce-i-advanced_wp_columns {
     background-position: 0px -20px !important;
 }
 
-.wp_themeSkin span.mce_advanced_wp_columns:hover {
-    background-position: 0px 0!important;
+.wp_themeSkin span.mce_advanced_wp_columns:hover, .mce-i-advanced_wp_columns:hover {
+    background-position: 0px 0px!important;
 }
 
 .mceMenu label {

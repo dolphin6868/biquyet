@@ -29,3 +29,15 @@
 2014-04-16 5:43:26 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/end_1.gif" does not exist 
 2014-04-16 5:43:26 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/cropped-header_8.gif" does not exist 
 2014-04-16 5:43:27 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/header_1.gif" does not exist 
+2014-04-16 10:09:04 - INFO  --> When loading post id = 351, 0 thumbnails where found 
+2014-04-16 10:09:14 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/cropped-BO-BA-NHAM-CHAN.png" does not exist 
+2014-04-16 10:09:15 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/vhjknlm.gif" does not exist 
+2014-04-16 10:09:15 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BLOG-70-BI-KIP-footer.gif" does not exist 
+2014-04-16 10:09:15 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BO-BA-NHAM-CHAN1.png" does not exist 
+2014-04-16 10:09:15 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BLOG-1.gif" does not exist 
+2014-04-16 10:09:17 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/BO-BA-NHAM-CHAN.png" does not exist 
+2014-04-16 10:09:19 - INFO  --> When saving post id = 351, 0 thumbnails will require processing 
+2014-04-16 10:09:19 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/cropped-header_8.gif" does not exist 
+2014-04-16 10:09:20 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/header_1.gif" does not exist 
+2014-04-16 10:09:20 - ERROR --> [phpThumb] - "C:/wamp/www/bi-quyet/wp-content/uploads/2014/03/end_1.gif" does not exist 
+2014-04-16 10:11:06 - INFO  --> When saving post id = 351, 0 thumbnails will require processing 

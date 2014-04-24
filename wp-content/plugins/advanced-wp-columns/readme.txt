@@ -4,7 +4,7 @@ Version: 2.0
 Donate link: http://www.wpcolumns.com/#np-975
 Tags: columns, content, multi, post, page, integration, templates, wysiwyg, editor, tinyMCE, admin, automatic, create, creative, css, custom, design, drag, drop, easy, edit, embed, free, flexible, formatting, generator, html, html5, plugin, plugins, posts, simple, style, text, tool, visual, wordpress
 Requires at least: 3.3
-Tested up to: 3.8
+Tested up to: 3.9
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -70,3 +70,5 @@ Responsive and more flexible version is released.
 * Minor HTML clearing fix.
 = 2.0.5 = 
 * Fixed HTTPS problem and small notification issues on settings page.
+= 2.0.6 = 
+* Fixed WP 3.9 compatibility problems.

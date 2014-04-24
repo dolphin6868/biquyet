@@ -3,7 +3,7 @@
 /*
   Plugin Name: Advanced WP Columns
   Description: Advanced columns manager plugin which provides you to set up your content in the multiple columns using simple user interface, without any short codes. Very simple to use, and maintain.
-  Version: 2.0.5
+  Version: 2.0.6
   Author: Vladica Savic
   Author URI: https://twitter.com/vsavic
  */
