@@ -7,13 +7,14 @@ $args = array(
     'post_type' => 'post',
     'post_status' => 'publish',
     'posts_per_page' => -1,
-    'caller_get_posts' => 1
+    'caller_get_posts' => 1,
+	'posts_per_page' => 10
 );
 $my_query = null;
 $my_query = new WP_Query($args);
 if ($my_query->have_posts()) {
     ?>
-    <h3 id="hot-posts-title">Bài viết nổi bật</h3>
+    <h3 id="hot-posts-title">Bài viết gần đây</h3>
     <ul id="hot-posts">
         <?php
         while ($my_query->have_posts()) :
