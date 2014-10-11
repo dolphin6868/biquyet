@@ -274,7 +274,7 @@
 
                     <li class="front-menu-item "><a href="/shark/public/thu-vien/">Thư viện</a></li>
 
-                    <li class="front-menu-item front-menu-active"> <a href="/shark/public/news/blog"> Blog</a></li>
+                    <li class="front-menu-item front-menu-active"> <a href="/bi-quyet"> Blog</a></li>
 
                      <!-- <li class="front-menu-item "> <a href="/shark/public/huong-dan-su-dung"> Hướng dẫn</a>
                     </li> -->
