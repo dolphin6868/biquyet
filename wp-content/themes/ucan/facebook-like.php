@@ -1,4 +1,4 @@
-<div id="fb-root"></div>
+<!-- <div id="fb-root"></div>
 <script>
     (function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
@@ -13,4 +13,4 @@
 
 <div class="facebook-comment-box">
     <div class="fb-like" data-send="true" data-width="600" data-show-faces="true"></div>
-</div>
+</div> -->
