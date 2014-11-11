@@ -26,9 +26,9 @@ if ($my_query->have_posts()) {
         ?>
     </ul>
     
-    <h3 id="english-is-zero">Tiếng Anh là chuyện nhỏ</h3>
+    <!-- <h3 id="english-is-zero">Tiếng Anh là chuyện nhỏ</h3>
     <p class="fanpage-message">Hãy cập nhật các bài học mới nhất qua facebook trên fanpage của chúng tôi.</p>
-    <div class="fb-like-box" data-href="http://www.facebook.com/englishlachuyennho" data-width="290" data-show-faces="true" data-border-color="#E8E8E8" data-stream="false" data-header="true"></div>
+    <div class="fb-like-box" data-href="http://www.facebook.com/englishlachuyennho" data-width="290" data-show-faces="true" data-border-color="#E8E8E8" data-stream="false" data-header="true"></div> -->
     
     <?php
 }

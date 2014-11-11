@@ -20,7 +20,7 @@ if (post_password_required())
     return;
 ?>
 
-<!-- <div id="comment-tabs">
+<div id="comment-tabs">
     <a data-id="uc" href="#">Bình luận trên ucan</a>
     <a data-id="fb" href="#">Bình luận trên facebook</a>
 </div>
@@ -52,4 +52,4 @@ if (post_password_required())
 
     <?php endif; // have_comments()  ?>
     <?php comment_form(); ?>
-</div> -->
+</div>
