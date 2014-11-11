@@ -1,4 +1,6 @@
 <?php
+return; // xoa dong nay khi can mo lai comment
+
 /**
  * The template for displaying Comments.
  *
